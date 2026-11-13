@@ -1,0 +1,7 @@
+Pclass,Sex,passenger_count,mean_age,survived_percent,mean_fare
+1,female,50,41.33,100.0,115.59
+1,male,57,40.52,0.0,75.59
+2,female,30,24.38,100.0,26.44
+2,male,63,30.94,0.0,20.18
+3,female,72,23.07,100.0,13.74
+3,male,146,24.53,0.0,11.83
